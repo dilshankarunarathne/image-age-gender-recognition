@@ -10,7 +10,7 @@ age_ranges = ["(0-2)", "(4-6)", "(8-12)", "(15-20)", "(25-32)", "(38-43)", "(48-
 gender_labels = ["Male", "Female"]
 
 # Load the image using OpenCV
-image = cv2.imread("image.jpg") 
+image = cv2.imread("image.jpg")
 
 # Define a function to predict age and gender
 def predict_age_and_gender(image):
