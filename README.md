@@ -1,14 +1,19 @@
-# template-private-ccncsa
-This is a template repository for private repositories of this organization. It uses Creative Commons Non-Commercial International license. 
+# Image Age and Gender Recognition
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+This Python project uses pre-trained models to estimate the age and gender of a person in an image. It utilizes both TensorFlow for age and gender estimation and OpenCV for face detection and landmarks extraction. Additionally, it includes support for using Caffe models for age and gender estimation.
 
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+## Table of Contents
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Dependencies](#dependencies)
+- [License](#license)
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+## Getting Started
 
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+These instructions will help you get a copy of the project up and running on your local machine.
 
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/image-age-gender-recognition.git
+   cd image-age-gender-recognition
+    ```
