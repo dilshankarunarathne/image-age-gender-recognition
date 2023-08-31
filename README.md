@@ -18,6 +18,9 @@ These instructions will help you get a copy of the project up and running on you
    cd image-age-gender-recognition
     ```
 2. **Install Dependencies**:
+    ```bash
+    pip3 install -r requirements.txt
+    ```
 3. **Run the Application**:
    ```bash
    python3 main.py
