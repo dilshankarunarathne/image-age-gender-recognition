@@ -1,7 +1,8 @@
 # Image Age and Gender Recognition
 
 This Python project uses pre-trained models to estimate the age and gender of a person in an image. 
-It utilizes both TensorFlow for age and gender estimation and OpenCV for face detection and landmarks extraction. Additionally, it includes support for using Caffe models for age and gender estimation.
+It utilizes both TensorFlow for age and gender estimation and OpenCV for face detection and landmarks extraction. 
+Additionally, it includes support for using Caffe models for age and gender estimation.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
