@@ -17,3 +17,8 @@ These instructions will help you get a copy of the project up and running on you
    git clone https://github.com/your-username/image-age-gender-recognition.git
    cd image-age-gender-recognition
     ```
+2. **Install Dependencies**:
+3. **Run the Application**:
+   ```bash
+   python3 main.py
+   ```
