@@ -39,3 +39,4 @@ The application will then prompt you to enter the path to the image you want to 
 ## Dependencies
 
 - [TensorFlow](https://www.tensorflow.org/)
+- [OpenCV](https://opencv.org/)
