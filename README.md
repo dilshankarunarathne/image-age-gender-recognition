@@ -13,6 +13,7 @@ Additionally, it includes support for using Caffe models for age and gender esti
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contact Information](#contact-information)
 
 ## Getting Started
 
