@@ -52,5 +52,5 @@ def detect_face(image_path):
         print(f"Gender: {gender_labels[np.argmax(predicted_gender)]}")
 
 if __name__ == "__main__":
-    image_path = "path_to_your_image.jpg"  
+    image_path = "image.jpg"
     detect_face(image_path)
