@@ -27,3 +27,9 @@ These instructions will help you get a copy of the project up and running on you
    ```
    
 ## Usage
+
+The application can be run using the following command:
+
+```bash
+python3 main.py
+```
