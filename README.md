@@ -37,3 +37,5 @@ python3 main.py
 The application will then prompt you to enter the path to the image you want to process. After entering the path, the application will process the image and display the results.
 
 ## Dependencies
+
+- [TensorFlow](https://www.tensorflow.org/)
