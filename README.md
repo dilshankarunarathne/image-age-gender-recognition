@@ -42,3 +42,5 @@ The application will then prompt you to enter the path to the image you want to 
 - [OpenCV](https://opencv.org/)
 - [Caffe](https://caffe.berkeleyvision.org/)
 - [NumPy](https://numpy.org/)
+
+## License
