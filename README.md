@@ -11,6 +11,7 @@ Additionally, it includes support for using Caffe models for age and gender esti
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
+- [Contributing](#contributing)
 - [License](#license)
 
 ## Getting Started
